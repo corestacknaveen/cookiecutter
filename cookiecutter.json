@@ -4,5 +4,6 @@
 "github_username": "username",
 "project_name": "cookiecutter_project",
 "author": "cookiecutter_author",
-"domain_name": "cookiecutter_domain"
+"domain_name": "cookiecutter_domain",
+"organization":"cookiecutter_organization"
 }

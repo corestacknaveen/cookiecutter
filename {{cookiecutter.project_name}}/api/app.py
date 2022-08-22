@@ -22,7 +22,7 @@ External APIs are exposed in the public domain for customers
 
 ## Internal
 
-APIs internal to {{cookiecuuter.organization}}
+APIs internal to {{cookiecutter.organization}}
 
 """
 
